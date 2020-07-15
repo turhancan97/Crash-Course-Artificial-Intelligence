@@ -1,1 +1,2 @@
-# Google_Colab_Projects
+# Google Colab Projects
+Crash Course Artificial Intelligence
