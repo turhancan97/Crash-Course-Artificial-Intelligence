@@ -57,3 +57,5 @@ This mode allows you to play a previously-trained "brain" on randomly-generated 
 Use the `--load-file` flag followed by a filename to play the "brain" in that file. You must use this flag.
 
 Example: `python3 trash_blaster.py playback --load-file bigbrain.txt`
+
+### Let's create an AI to play a game!
